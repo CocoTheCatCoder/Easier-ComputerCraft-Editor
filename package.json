@@ -1,0 +1,25 @@
+{
+  "name": "easier-computercraft-editor",
+  "version": "1.0.0",
+  "description": "Makes editing ComputerCraft projects easier",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CocoTheCatCoder/Easier-ComputerCraft-Editor.git"
+  },
+  "author": "CocoTheCatCoder",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CocoTheCatCoder/Easier-ComputerCraft-Editor/issues"
+  },
+  "homepage": "https://github.com/CocoTheCatCoder/Easier-ComputerCraft-Editor#readme",
+  "dependencies": {
+    "clipboardy": "^3.0.0",
+    "dotenv": "^16.0.3",
+    "pastebin-api": "^5.1.5"
+  }
+}
